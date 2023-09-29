@@ -27,7 +27,8 @@ header nav{display: flex; color: #12b62d;}
 header nav a{text-decoration: none;}
 
 .nav-a a{margin-left: 15px;}
-.nav-a a:visited{color: #12b62d;}
+.nav-link{color: #12b62d;}
+.nav-link a:visited{color: #12b62d;}
 
 header nav button{
     background-color: #3858f0;
