@@ -98,7 +98,7 @@ main button a{text-decoration: none; color: white;}
     font-size: 20px;
 }
 
-/* Main 2 */
+/* ----------- Main 2 ----------- */
 .main2{
     height: 900px;
     width: 100%;
@@ -125,25 +125,6 @@ main button a{text-decoration: none; color: white;}
     font-family: 'Roboto',sans-serif;
     font-size: 2rem;
 }
-
-.card{
-    background-color: #abb800;
-    width: 320px;
-    height: 320px;
-    align-items: center;
-    padding: 12px;
-    justify-content: space-evenly;
-}
-
-.card p{
-    font-family: 'Roboto', sans-serif;
-    width: 80%;
-}
-
-.icon-card span{font-size: 54px;}
-
-.card a{font-family: 'Oswald', sans-serif; font-weight: 600;text-decoration: underline; color: white;}
-.card a:hover{color: rgb(148, 148, 148); transition: color .2s;}
 
 /* ----------- Main 3 ----------- */
 .main3{
